@@ -2,6 +2,8 @@
 
 Working on LLM inference: prefill/decode disaggregation, KV cache correctness, and GPU kernels.
 
+Graduated from Shanghai Jiao Tong University (SJTU) with both bachelor's and master's degrees.
+
 ## Merged Contributions
 
 **8 upstream PRs merged: 6 as author, 2 as co-author.**
